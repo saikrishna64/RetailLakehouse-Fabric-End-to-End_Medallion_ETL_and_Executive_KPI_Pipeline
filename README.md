@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>End-to-End Retail Data Engineering Pipeline in Microsoft Fabric</title>
 </head>
 <body>
 

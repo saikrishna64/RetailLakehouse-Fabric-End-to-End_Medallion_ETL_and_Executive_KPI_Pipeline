@@ -1,0 +1,1 @@
+SELECT * FROM dbo.gold_product_kpis;

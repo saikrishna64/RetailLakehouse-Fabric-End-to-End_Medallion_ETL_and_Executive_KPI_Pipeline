@@ -84,7 +84,7 @@
 <h2>📊 Dashboard Preview</h2>
 
 <blockquote>
-    <p><em>Add a screenshot of your Power BI report here:</em></p>
+    <p><em>https://github.com/saikrishna64/Retail360-End-to-End-Medallion-Architecture-Executive-Analytics-Suite/blob/main/Screenshot%202026-11-18%20235251.png</em></p>
     <p><code>&lt;img src="assets/powerbi_dashboard.png" alt="Retail KPI Dashboard"&gt;</code></p>
 </blockquote>
 
